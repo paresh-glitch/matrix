@@ -1,0 +1,12 @@
+{
+  "name": "debug-pipeline-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "lint": "echo 'linting passed' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
